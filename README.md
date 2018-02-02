@@ -10,7 +10,13 @@ Run `npm install -g @angular/cli`
 ## Go to the project directory and launch the server.
 
 Run `cd AngularAppDemo`
-Run `npm install` 
+
+## Install Node Modules Directory
+
+Run `npm install` to install node_module directories
+
+## Development Serve Open
+
 Run `ng serve --open`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
