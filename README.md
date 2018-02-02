@@ -1,4 +1,17 @@
+
+
 # AngularDemoApp
+
+
+## Then install the Angular CLI globally.
+
+Run `npm install -g @angular/cli`
+
+## Go to the project directory and launch the server.
+
+Run `cd AngularAppDemo`
+Run `npm install` 
+Run `ng serve --open`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
