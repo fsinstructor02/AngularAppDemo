@@ -1,0 +1,33 @@
+/*Mobile*/
+/*Mobile*/
+
+.title{
+    text-align: center;
+    font-weight: 900;
+}
+
+
+.head-banner {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+
+}
+
+
+
+/*Tablet*/
+/*Tablet*/
+@media (min-width: 768px){
+    .head-banner {
+        background-color: red;
+    }
+}
+
+/*Desktop*/
+@media (min-width: 900px){
+    .head-banner {
+        background-color: red;
+    }
+}
